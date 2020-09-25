@@ -3,7 +3,12 @@ A 7 class audio dataset collected from Hindi movies
 
 Disclaimer:
 -----------
-This dataset is composed of audio extracted from four Bollywood movies publicly available on the Youtube. Authors do not claim any ownership of the audio content whatsoever. Due credits have been provided to the creators and owners of the content used for creating this dataset. Authors' contribution to the audio processing community is provided as annotations for audio segments extracted from the movie audio. This annotated dataset is made available as a public resource solely for academic purposes. Acording to the Copyright Act, 1957 of the Govt. of India, the content in this data corpus may only be used for academic research. No one is permitted to use this dataset commercially. Authors will not be responsible for anyone misusing this corpus for non-academic purposes.
+This dataset is composed of audio extracted from four Bollywood movies publicly available on the Youtube. Authors do not claim any ownership of the audio content
+whatsoever. Due credits have been given to the creators and owners of the content used for creating this dataset. Authors' contribution to the audio processing
+community is just the annotations provided for audio segments extracted from the movie audio. This dataset is made available as a public resource solely for
+academic purposes. Acording to the Copyright Act, 1957 of the Govt. of India, the content in this data corpus may only be used for academic research. No one is
+permitted to use this dataset commercially. Authors will not be responsible for anyone misusing this corpus for purposes other than academic.
+
 
 Meta:
 -----
@@ -16,6 +21,7 @@ speech+music = 3 hrs, 48 min, 34 sec
 noise = 0 hrs, 24 min, 29 sec
 speech+music+noise = 0 hrs, 15 min, 44 sec
 Total = 8 hrs, 20 min, 10 sec
+
 
 
 Movies:
