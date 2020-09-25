@@ -3,7 +3,7 @@ A 7 class audio dataset collected from Hindi movies
 
 Disclaimer:
 -----------
-This dataset is composed of audio extracted from four Bollywood movies publicly available on the Youtube. Authors do not claim any ownership of the audio content whatsoever. The authors have have provided due credits to the creators and owners of the content used for creating this dataset. Authors' contribution to the audio processing community is provided as annotations for audio segments extracted from the movie audio. This annotated dataset is made freely available as a public resource solely for academic purposes. Neither the authors, nor anybody else is permitted to use this dataset commercially.
+This dataset is composed of audio extracted from four Bollywood movies publicly available on the Youtube. Authors do not claim any ownership of the audio content whatsoever. The authors have have provided due credits to the creators and owners of the content used for creating this dataset. Authors' contribution to the audio processing community is provided as annotations for audio segments extracted from the movie audio. This annotated dataset is made available as a public resource solely for academic purposes. Acording to the Copyright Act, 1957 of the Govt. of India, the content in this data corpus may only be used for academic research. No one is permitted to use this dataset commercially. Authors will not be responsible for anyone misusing this corpus for non-academic purposes.
 
 Meta:
 -----
