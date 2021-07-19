@@ -1,5 +1,8 @@
 # Movie-MUSNOMIX
 A 7 class audio dataset collected from Hindi movies
+Authors: Mrinmoy Bhattacharjee(a), S.R.M. Prasanna(b), Prithwijit Guha(a)
+Affiliations: (a) Dept. of EEE, Indian Institute of Technology Guwahati, Assam, India
+              (b) Dept. of EE, Indian Institute of Technology Dharwad, Karnataka, India
 
 Disclaimer:
 -----------
@@ -7,20 +10,20 @@ This dataset is composed of audio extracted from four Bollywood movies publicly 
 whatsoever. Due credits have been given to the creators and owners of the content used for creating this dataset. Authors' contribution to the audio processing
 community is just the annotations provided for audio segments extracted from the movie audio. This dataset is made available as a public resource solely for
 academic purposes. Acording to the Copyright Act, 1957 of the Govt. of India, the content in this data corpus may only be used for academic research. No one is
-permitted to use this dataset commercially. Authors will not be responsible for anyone misusing this corpus for purposes other than academic.
+permitted to use this dataset commercially. Authors will not be held responsible for anyone misusing this corpus for purposes other than academic.
 
 
 Meta:
 -----
 Total audio duration (class wise):
-music = 0 hrs, 52 min, 36 sec
+music = 1 hrs, 51 min, 42 sec
 speech = 1 hrs, 48 min, 54 sec
 music+noise = 0 hrs, 18 min, 16 sec
 speech+noise = 0 hrs, 51 min, 35 sec
-speech+music = 3 hrs, 48 min, 34 sec
-noise = 0 hrs, 24 min, 29 sec
+speech+music = 2 hrs, 49 min, 27 sec
 speech+music+noise = 0 hrs, 15 min, 44 sec
-Total = 8 hrs, 20 min, 10 sec
+noise = 0 hrs, 24 min, 29 sec
+Total = 8 hrs, 20 min, 0 sec
 
 
 
